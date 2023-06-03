@@ -1,0 +1,5 @@
+<meta>
+    <info name="Test" description="NemesusTV Tutorial Script" />
+ 
+    <script src="Test.dll" />
+</meta>
